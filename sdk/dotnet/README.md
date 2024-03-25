@@ -1,5 +1,5 @@
 [![Actions Status](https://github.com/ydkn/pulumi-k0s/workflows/master/badge.svg)](https://github.com/ydkn/pulumi-k0s/actions)
-[![NPM version](https://badge.fury.io/js/%40ydkn%2Fpulumi-k0s.svg)](https://www.npmjs.com/package/@ydkn/pulumi-k0s)
+[![NPM version](https://badge.fury.io/js/%40ydkn%2Fpulumi-k0s.svg)](https://www.npmjs.com/package/@enzoalbornoz/pulumi-k0s)
 [![Python version](https://badge.fury.io/py/pulumi-k0s.svg)](https://pypi.org/project/pulumi-k0s)
 [![NuGet version](https://badge.fury.io/nu/pulumi.k0s.svg)](https://badge.fury.io/nu/pulumi.k0s)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/ydkn/pulumi-k0s/sdk/go)](https://pkg.go.dev/github.com/ydkn/pulumi-k0s/sdk/go)
@@ -16,11 +16,11 @@ This package is available in many languages in the standard packaging formats.
 
 To use from JavaScript or TypeScript in Node.js, install using either `npm`:
 
-    $ npm install @ydkn/pulumi-k0s
+    $ npm install @enzoalbornoz/pulumi-k0s
 
 or `yarn`:
 
-    $ yarn add @ydkn/pulumi-k0s
+    $ yarn add @enzoalbornoz/pulumi-k0s
 
 ### Python
 

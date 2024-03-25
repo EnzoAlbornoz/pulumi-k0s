@@ -1,5 +1,5 @@
 {
-    "name": "@ydkn/pulumi-k0s",
+    "name": "@enzoalbornoz/pulumi-k0s",
     "version": "${VERSION}",
     "keywords": [
         "pulumi",
